@@ -54,7 +54,7 @@
     "mkdirp": "^0.5.1",
     "pathwatcher": "^8.1.0",
     "serializable": "^1.0.3",
-    "superstring": "^2.4.4",
+    "superstring": "https://github.com/mq30/text-buffer.git",
     "underscore-plus": "^1.0.0",
     "winattr": "^3.0.0"
   },
